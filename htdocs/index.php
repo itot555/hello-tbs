@@ -1,2 +1,2 @@
 <?php
-echo 'Hello, Tanzu!!';
+echo 'Hello, Tanzu Build Service!!';
