@@ -1,2 +1,2 @@
 <?php
-echo 'Hello, Tanzu Build Service v0.0.1!!';
+echo 'Hello, Tanzu Build Service v0.0.2!!';
